@@ -1,4 +1,3 @@
-================================================================================
 TRABALHO PRÁTICO FINAL - SISTEMAS DISTRIBUÍDOS PARA AUTOMAÇÃO
 SISTEMA DE SUPERVISÃO E TELEMETRIA DE ESTEIRA
 ================================================================================
@@ -97,11 +96,3 @@ docker run -d --name mqtt-broker -p 1883:1883 -p 9001:9001 eclipse-mosquitto:lat
    - Observe o Dashboard mudar imediatamente para "FALHA / ALARME ATIVO" e o payload MQTT registrar a chave de alarme ativada.
 
 ---
-
-5. SUPORTE E CONTATO
-
----
-
-Em caso de dúvidas na reprodução do ambiente, entre em contato com os autores
-através dos e-mails institucionais da UFMG.
-================================================================================
