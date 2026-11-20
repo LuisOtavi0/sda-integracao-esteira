@@ -6,9 +6,11 @@ Alunos:
 
 - Luís Otávio de Souza Silva (2023082247)
 - Maria Eduarda Neves Leal (2023111646)
-  Disciplina: ELT011 - Sistemas Distribuídos para Automação (TN)
-  Professor: Armando Alves Neto
-  Universidade Federal de Minas Gerais (UFMG)
+- Disciplina: ELT011 - Sistemas Distribuídos para Automação (TN)
+- Professor: Armando Alves Neto
+- Universidade Federal de Minas Gerais (UFMG)
+
+- Vídeo de demonstração: https://youtu.be/tVn05PnERls
 
 ---
 
